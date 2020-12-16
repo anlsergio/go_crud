@@ -41,11 +41,7 @@ CREATE TABLE users(
 
 One can make use of Postman or Insomnia to hit the API endpoints for testing purposes.
 
-<br />
-
 ### Some examples:
-
-<br />
 
 #### For creating a user:
 - HTTP Method: `POST`
